@@ -1,5 +1,7 @@
 # My Google Summer of Code, 2023
 
+![Google Summer of Code - Improving the Squoosh Web App](images/Banner.png)
+
 ## Project Goals
 
 * Adding a Modal component to display verbose information to the users
